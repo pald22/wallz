@@ -1,0 +1,25 @@
+Hello My Name is Patrick Ledoit
+
+My game is called Wallz
+
+-Requirements
+It is coded in Python so Python needs to be downloaded
+It uses pygame so it also has to be downloaded
+Screen bigger than 500x500 pixels
+
+-How to run the program
+Make sure that all the folders and files are in one folder (let's call it Game)
+Within this "Game" folder you should have: "assets" folder, "sounds" folder, "wallz.py", and "Read Me.txt". 
+Open cmd or terminal
+Redirect to the "Game" folder
+Type "wallz.py" this will launch the game
+
+
+-Details
+This code was written by Patrick Ledoit
+This code was written the 15th of October 2020
+You can change the difficulty of the game if you edit the wallz.py code as instructed within
+This game is beatable!
+#Change line 353, to = 48 to hear one more song and make it more difficult ;)
+#Line 71 You can change the path to 'assets/main_char2' or char3,4,5 for a different character
+This code follows the MIT license see in wallz.py
